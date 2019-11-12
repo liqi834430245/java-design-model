@@ -1,0 +1,7 @@
+1:抽象主题类 abstract class subject
+
+2:主题的实例类 class
+
+1:一个接口类 interface observer 观察者
+
+2：接口类的实例  真正的观察者实例

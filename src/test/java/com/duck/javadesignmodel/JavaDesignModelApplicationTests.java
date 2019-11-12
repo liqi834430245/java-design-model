@@ -11,6 +11,8 @@ public class JavaDesignModelApplicationTests {
 
     @Test
     public void contextLoads() {
+
+
     }
 
 }
